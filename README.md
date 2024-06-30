@@ -1,6 +1,8 @@
 ## Beaver: Your Altesia Test-Taking Buddy
 
 ![alt text](https://raw.githubusercontent.com/AyoubSghuri/Beaver/main/imgPC/2fba1b91451c92c1dd07dd7ff1fcb63c-modified.ico)
+
+
 **Beaver** is a Python application with a graphical user interface (GUI) that automates test-taking on the Altesia website.
 
 ### Features
